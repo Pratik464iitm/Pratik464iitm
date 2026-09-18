@@ -16,8 +16,11 @@
   <a href="https://github.com/pratik464iitm">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/pratik_cf464">
+  <!-- <a href="https://codeforces.com/profile/pratik_cf464">
     <img src="https://img.shields.io/badge/Codeforces-1667_Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a> -->
+  <a href="https://codeforces.com/profile/pratik_cf464">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <!-- <a href="https://leetcode.com/pratik_cf464">
     <img src="https://img.shields.io/badge/LeetCode-1809_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
