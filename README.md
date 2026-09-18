@@ -42,7 +42,7 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 
 🚀 I enjoy learning new technologies, solving challenging problems, and turning ideas into working applications.
 
-📚 Always learning, building, and improving one project at a time.
+📚 learning, building, and improving 
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/pratikpanwar)
 
 ---
