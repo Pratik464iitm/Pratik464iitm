@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20there,%20I'm%20Pratik%20Panwar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20,%20I'm%20Pratik%20Panwar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=Dual+Degree+%40+IIT+Madras;Full-Stack+Developer+%7C+MERN+%2B+C%2B%2B;Codeforces+Expert+(1667)+%7C+LeetCode+Knight+(1809);Open+to+SDE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
@@ -19,9 +19,12 @@
   <a href="https://codeforces.com/profile/pratik_cf464">
     <img src="https://img.shields.io/badge/Codeforces-1667_Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/pratik_cf464">
+  <!-- <a href="https://leetcode.com/pratik_cf464">
     <img src="https://img.shields.io/badge/LeetCode-1809_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  </a> -->
+  <a href="https://my-portfolio-pp.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 </div>
