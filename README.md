@@ -78,6 +78,7 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 </a>
 
 </div> -->
+<!-- <div>
 
 | Project | Stack | Description |
 |---|---|---|
@@ -86,6 +87,7 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 | **HuffZip** | C++, STL, OOP | Huffman-coding based lossless file compression, built from scratch |
 | **ChatRelay** | C++, Boost.Asio | Multithreaded TCP chat server, async client handling, private messaging |
 
+</div> -->
 ---
 
 ### 📊 GitHub Stats
