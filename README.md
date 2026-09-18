@@ -90,6 +90,20 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 
 ### 📊 GitHub Stats
 
+<!-- <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik464iitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik464iitm&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik464iitm&theme=tokyonight&hide_border=true" />
+
+</div>  -->
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik464iitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -102,7 +116,7 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik464iitm&theme=tokyonight&hide_border=true" />
 
-</div> 
+</div>
 
 ---
 
