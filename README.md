@@ -52,7 +52,7 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 
 <div align="center">
 
-<a href="https://github.com/pratik464iitm/SyncBoard">
+<a href="https://github.com/pratik464iitm/syncBoard_pp">
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=pratik464iitm&repo=SyncBoard&theme=tokyonight&hide_border=true" />
 </a>
 
