@@ -2,8 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20there,%20I'm%20Pratik%20Panwar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
+<!-- <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=Dual+Degree+%40+IIT+Madras;Full-Stack+Developer+%7C+MERN+%2B+C%2B%2B;Codeforces+Expert+(1667)+%7C+LeetCode+Knight+(1809);Open+to+SDE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+</a> -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=Dual+Degree+Biotech+%40+IIT+Madras;Full-Stack+Developer+%7C+MERN+%2B+C%2B%2B;Codeforces+Expert+(1667)+%7C+LeetCode+Knight+(1809);Ex-SWE+Intern+%40+Diax.ai;Open+to+SDE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=Dual+Degree+%40+IIT+Madras+%2727;Full-Stack+Web+Developer;Competitive+Programmer" alt="Typing SVG" />
 </a>
 
 <p>
