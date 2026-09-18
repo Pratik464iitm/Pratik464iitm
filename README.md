@@ -50,7 +50,7 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 
 ### 💡 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/pratik464iitm/syncBoard_pp">
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=pratik464iitm&repo=SyncBoard&theme=tokyonight&hide_border=true" />
@@ -68,7 +68,7 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=pratik464iitm&repo=ChatRelay&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+</div> -->
 
 | Project | Stack | Description |
 |---|---|---|
@@ -81,7 +81,7 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=pratik464iitm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
@@ -93,7 +93,7 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik464iitm&theme=tokyonight&hide_border=true" />
 
-</div>
+</div> -->
 
 ---
 
