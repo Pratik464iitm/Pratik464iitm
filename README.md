@@ -27,12 +27,13 @@
 
 ### 🚀 About Me
 
-- 🎓 Dual Degree (B.Tech + M.Tech) in **Biotechnology** @ **IIT Madras**, CGPA **7.94/10** — Nov '22 to May '27
-- 💼 Software Engineering Intern @ **Diax.ai** — built a full-stack MERN healthcare platform, an OpenAI Whisper transcription pipeline for 100+ consultations, and automated LinkedIn publishing for 30+ posts
-- 🏆 **Codeforces Expert (1667)** · **LeetCode Knight (1809, top 7.75%)** · Global Rank 488/36K+ in **ICPC 2025 Online Winter Challenge**
-- 🎯 Top performer at **InMobi Codies 2026**, earning a **PPI**
-- 🧑‍💼 Strategist, **Alumni Relations Cell** — led a mentorship program (10 sessions, ₹5L+ budget) and an internship drive with 100% placement (12 hires / 500+ applicants)
-- 🏏 IIT Madras Cricket NSO & Inter-IIT contingent member
+Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software Development and problem solving.
+
+💻 Currently focused on DSA, Full-Stack Development, and building real-world projects.
+
+🚀 I enjoy learning new technologies, solving challenging problems, and turning ideas into working applications.
+
+📚 Always learning, building, and improving one project at a time.
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/pratikpanwar)
 
 ---
