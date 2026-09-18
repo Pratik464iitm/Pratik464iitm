@@ -56,8 +56,9 @@ Hi! I'm Pratik, a Dual Degree student at IIT Madras, passionate about Software D
 </div>
 
 ---
-
+<!-- <div>
 ### 💡 Featured Projects
+</div> -->
 
 <!-- <div align="center">
 
